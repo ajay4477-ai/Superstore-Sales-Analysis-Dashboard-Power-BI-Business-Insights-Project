@@ -33,7 +33,7 @@ It is designed to help business stakeholders make data-driven decisions by ident
 
 **🖼️Dashboard Preview**
 1. *Sales Overview*
-![img](sales performance.png)
+![img_alt]()
 
 
 
