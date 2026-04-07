@@ -45,11 +45,11 @@ It is designed to help business stakeholders make data-driven decisions by ident
 ![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/aba975a1fadf5aaafa0b557119a02e6ace5a895b/product%20performance.png)
 
 5. *Order & Shipping*
-![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/12d162acea52e109a5000f83f6846e30d1557b47/orders%20and%20shipping.png)
+![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/12d162acea52e109a5000f83f6846e30d1557b47/orders%20and%20shipping.png)<br>
 
 
 **Tools & Technologies**
-- Power BI  
-- DAX (Data Analysis Expressions)  
-- Python (Pandas, NumPy)  
-- CSV Dataset  
+- Power BI (Data Visualization)  
+- DAX (Calculated Measures & KPIs)  
+- Python (Pandas, NumPy for Data Cleaning & Preprocessing)  
+- CSV Dataset   
