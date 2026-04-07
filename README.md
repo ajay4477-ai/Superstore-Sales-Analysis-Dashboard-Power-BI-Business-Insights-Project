@@ -39,7 +39,7 @@ It is designed to help business stakeholders make data-driven decisions by ident
 ![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/e8b93a2e3bac2ca783cc2e58dfb0e4f96a6d6476/profit%20and%20loss.png)
 
 3. *Customer Insights*
-![img_alt]()
+![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/eb8a024fe8f914674ec4d21e18e0b9feb55b1655/customer%20insights.png)
 
 4. *Product Performance*
 ![img_alt]()
