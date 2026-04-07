@@ -1,11 +1,11 @@
-##🚀 End-to-End Data Analysis Project | Real-World Business Insights
+***End-to-End Data Analysis Project | Real-World Business Insights***
 
-**📖Project Overview<br>**
+**Project Overview<br>**
 This project presents a comprehensive analysis of retail sales data using Power BI. The dashboard provides actionable insights into sales performance, profitability, customer behavior, and operational efficiency.
 It is designed to help business stakeholders make data-driven decisions by identifying key trends, high-performing segments, and improvement areas.<br><br>
 
 
-**🎯Objectives**
+**Objectives**
   - Analyze overall sales and profit trends
   - Identify top-performing products and categories
   - Understand customer purchasing behavior
@@ -13,7 +13,7 @@ It is designed to help business stakeholders make data-driven decisions by ident
   - Detect the impact of discounts on profitability
 <br><br>
 
-**📊Dashboards Included**
+**Dashboards Included**
 1. *Sales Overview Dashboard*
     - Tracks total sales, profit, and order volume
     - Monthly and yearly trends
@@ -31,7 +31,7 @@ It is designed to help business stakeholders make data-driven decisions by ident
     - Delivery performance insights
 
 
-**🖼️Dashboard Preview**
+**Dashboard Preview**
 1. *Store Overview*
 ![img_alt](https://github.com/ajay4477-ai/Superstore-Sales-Analysis-Dashboard-Power-BI-Business-Insights-Project/blob/42e8270ebcec3955d2c2f8087617b54e7821716b/store%20performance.png)
 
